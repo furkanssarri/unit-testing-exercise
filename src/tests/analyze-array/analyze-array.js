@@ -1,5 +1,3 @@
-import { calculator } from "../calculator/calculator.js";
-
 export function analyzeArray(array) {
    const min = Math.min(...array);
    const max = Math.max(...array);

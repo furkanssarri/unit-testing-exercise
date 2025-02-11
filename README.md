@@ -1,3 +1,3 @@
-# template
+# unit testing
 
-a template repo to have everything set up from the get-go
+a simple set of unit testing and tdd in general. the individual README.md have little more information of their test cases respectively.

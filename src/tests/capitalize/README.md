@@ -1,8 +1,8 @@
-## Capitalize
+# eapitalize
 
-Expects a string to be returned with its first letter capitalized.
+expects a _string_ to be returned with its first letter capitalized.
 
-#### Examples:
+## examples
 
--  "josh" -> "Josh"
--  "denmark" -> "Denmark"
+-  expects "josh" to be converted into "Josh"
+-  expects "denmark" to be converted into "Denmark"

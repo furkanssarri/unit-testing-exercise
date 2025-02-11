@@ -1,4 +1,4 @@
-import { ceaserCypher } from "./ceaser-cypher.js";
+import { ceaserCypher } from "./ceasar-cypher.js";
 
 test('should shift "xyz" by 3 and return "abc', () => {
    expect(ceaserCypher("xyz", 3)).toBe("abc");

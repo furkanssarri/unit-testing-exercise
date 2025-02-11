@@ -1,9 +1,9 @@
-## Calculator
+# calculator
 
-Expects a calculator object returned, which contains methods for basic math calculations.
+expects a calculator object returned, which contains _methods_ for basic math calculations.
 
-#### Examples
+## examples
 
--  expect 2 + 3 to be 5,
--  expext 2 \* 2 to be 4,
--  expect 5 - 1 to be 4
+-  expects 2 + 3 to be 5,
+-  expexts 2 \* 2 to be 4,
+-  expects 5 - 1 to be 4

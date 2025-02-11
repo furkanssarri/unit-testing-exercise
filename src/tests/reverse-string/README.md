@@ -1,8 +1,8 @@
-## Reverse String
+# reverse String
 
-Expexts a string to be returned reversed.
+expexts a string to be returned reversed.
 
-#### Examples
+## examples
 
--  "configure" shoud return "erugifnoc"
--  "module" should return "eludom"
+-  expects "configure" should return "erugifnoc",
+-  expects "module" should return "eludom"
