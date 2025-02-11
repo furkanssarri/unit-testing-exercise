@@ -4,7 +4,7 @@ expects a string to be returned as encrypted by a _easar cypher_. see [ceasar cy
 
 this function takes in a _string_ and a _shift factor_ and returns the, sort of, encrypted string[^1].
 
-[^1]: the function lacks a decryption method since it is not in the scope of this exercise to decrypt messages.
+[^1]: the function purposefully lacks a decryption method since it is not in the scope of this exercise to decrypt messages.
 
 it does take:
 
