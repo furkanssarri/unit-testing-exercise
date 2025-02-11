@@ -15,14 +15,14 @@ into consideration, leaving those untouched.
 
 ## examples
 
-with a shift factor of 3,
+### with a shift factor of 3
 
 -  expects "**hello**" to be "**khoor**"
 -  expects "**Hello**" to be "**Khoor**"
 -  expects "**Hello, world!**" to be "**Khoor, zruog!**"
 -  expects "**attack at once**" to be "**dwwdfn dw rqfh**",
 
-with a shift factor of 17,
+### with a shift factor of 17
 
 -  expects "**hello**" to be "**yvccf**",
 -  expects "**Hello**" to be "**Yvccf**",
